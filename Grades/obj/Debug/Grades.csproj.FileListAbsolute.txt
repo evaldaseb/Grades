@@ -1,0 +1,6 @@
+C:\Dev\C_Sharp_Fundamentals\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Dev\C_Sharp_Fundamentals\Grades\Grades\bin\Debug\Grades.exe
+C:\Dev\C_Sharp_Fundamentals\Grades\Grades\bin\Debug\Grades.pdb
+C:\Dev\C_Sharp_Fundamentals\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Dev\C_Sharp_Fundamentals\Grades\Grades\obj\Debug\Grades.exe
+C:\Dev\C_Sharp_Fundamentals\Grades\Grades\obj\Debug\Grades.pdb
